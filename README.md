@@ -4,4 +4,4 @@ Executável p/ windows utilizado para informar um número de CEP e num endpoint 
 Também o código-fonte "main.go" na linguagem Go, possibilitando analisar o sistema e compilar para qualquer sistema operacional.
 
 
-!! ATENÇÂO !! Não confie em download de executáveis diretamente. Sempre prefira o código-fonte e compile por si mesmo.
+!! ATENÇÂO !! Não confie em download de executáveis diretamente. Esteja por sua conta e risco. Sempre prefira o código-fonte e compile por si mesmo.
