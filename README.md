@@ -3,10 +3,10 @@ Executável p/ windows utilizado para informar um número de CEP e num endpoint 
 Este sistema é executado via linha de comando. Segue os dois modelos:
 
 CEP formatado:
-BuscaDadosDeCEP_GOLANG.exe 02138-040
+BuscaDadosDeCEP_GOLANG.exe 01310-904
 
 CEP não formatado:
-BuscaDadosDeCEP_GOLANG.exe 02138040
+BuscaDadosDeCEP_GOLANG.exe 01310904
 
 Também o código-fonte "main.go" na linguagem Go, possibilitando analisar o sistema e compilar para qualquer sistema operacional.
 
